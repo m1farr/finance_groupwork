@@ -1,4 +1,4 @@
-<h1>Overview</h1>
+# finance_groupwork: Overview
 This repo contains the work that I contributed towards the "AAPL Shareholder Value Creation" group project for the module "Topics in Financial Management I."
 <br>
 <br>
@@ -7,7 +7,7 @@ My work mainly concerned with two portions of the project:
 1. The calculation and graphical illustration of the **Net Profit Margin** of Apple and the industry.
 2. The calculation and graphical illustration of the **CAPM** and **Fama-French 3-Factor** models for Apple and the industry.
 
-<h2>Data</h2>
+## Data
 All data was provided in the coursework files and is sourced from Wharton Research Data Services (WRDS). 
 
 The coursework files provided the following data on Apple and the industry from 2010-2023:
@@ -17,7 +17,7 @@ The coursework files provided the following data on Apple and the industry from 
 - Financial statements
 - Fama-French 3-Factors and the risk-free rate
 
-<h2>Code</h2>
+## Code
 
 `00_dependencies.R` loads all of the additional packages that I utilized in this project. 
 <br>
