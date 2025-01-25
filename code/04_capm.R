@@ -1,6 +1,6 @@
 source("code/00_dependencies.R")
 source("code/01_functions.R")
-source("code/02_profitability.R")
+source("code/02_data.R")
 
 # AAPL CAPM --------------------------------------------------
 
