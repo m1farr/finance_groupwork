@@ -2,7 +2,7 @@
 This repo contains the work that I contributed towards the "AAPL Shareholder Value Creation" group project for the module "Topics in Financial Management I."
 <br>
 <br>
-My work mainly concerned with two portions of the project:
+My work mainly concerned two portions of the project:
 
 1. The calculation and graphical illustration of the **Net Profit Margin** of Apple and the industry.
 2. The calculation and graphical illustration of the **CAPM** and **Fama-French 3-Factor** models for Apple and the industry.
@@ -14,7 +14,7 @@ The coursework files provided the following data on Apple and the industry from 
 - Company profile *(for Apple only)*
 - Financial statements *(for Apple only)*
 - Financial ratios
-- Financial statements
+- Monthly returns
 - Fama-French 3-Factors and the risk-free rate
 
 ## Code
